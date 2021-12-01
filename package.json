@@ -1,0 +1,11 @@
+{
+    "name": "@atttilagyongyosi/advent-of-code-2021",
+    "version": "0.0.1",
+    "type": "module",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "devDependencies": {
+        "jasmine": "3.10.0"
+    }
+}
